@@ -1,2 +1,14 @@
-# python-mini-games
-A collection of simple command-line games made while learning Python.
+# Python Mini Games
+
+A collection of Python mini games built while learning Python.
+
+## Projects
+
+- Rock Paper Scissors (Coming Soon)
+- Guess Number (Coming Soon)
+
+## About
+
+This repository records my Python learning journey through small command-line projects.
+
+More games will be added as I continue learning.
