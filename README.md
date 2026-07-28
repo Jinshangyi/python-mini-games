@@ -4,7 +4,7 @@ A collection of Python mini games built while learning Python.
 
 ## Projects
 
-- Rock Paper Scissors (Coming Soon)
+- Rock Paper Scissors ✅
 - Guess Number (Coming Soon)
 
 ## About
